@@ -1,1 +1,2 @@
 work done on feature-a
+second line: more work on feature-a
